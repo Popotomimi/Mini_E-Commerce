@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rel\u00f3gio Elegante",
+    "price": 50.99,
+    "image": "https://a-static.mlcdn.com.br/450x450/relogio-masculino-black-de-pulso-elegante-geneva/jj95acessorios/8geee063/2593e4a6ba6993aa03e127ee4b225381.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "C\u00e2mera Vintage",
+    "price": 85.5,
+    "image": "https://www.designi.com.br/images/preview/10229394.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fones de Ouvido",
+    "price": 35.99,
+    "image": "https://oestesom.vteximg.com.br/arquivos/ids/181058-425-425/dobravel-sem-fio-50-fones-de-ouvido-com-luz-colorida-led-D_NQ_NP_849983-MLB43210118556_082020-F.jpg?v=637335200781970000"
+  },
+  {
+    "id": 4,
+    "name": "T\u00eanis de Corrida",
+    "price": 120.0,
+    "image": "https://cdn.awsli.com.br/600x1000/1738/1738124/produto/201846764/puma-disc2-aarnzj.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone",
+    "price": 299.99,
+    "image": "https://s2-techtudo.glbimg.com/szlBsw3L1Z3ych87xOi4Gkn7D-I=/0x0:970x545/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/V/X/yqoE7TSfy5MlDFKDfZrw/aea7a675b1ae89200b3a8329f36e51d3-970-80.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Livro de Aventura",
+    "price": 19.99,
+    "image": "https://cinquentatonsdecinza.com.br/img/livro_50tons_filme.png"
+  },
+  {
+    "id": 7,
+    "name": "PC Gamer",
+    "price": 2500.99,
+    "image": "https://cdn.dooca.store/180/products/gabinete-gamer-nzxt-h9-flow-mid-tower-vidro-temperado-white-atx-sem-fonte-com-4-fans-cm-h91fw-01-1-2_640x640+fill_ffffff.jpg?v=1681321785&webp=0"
+  },
+  {
+    "id": 8,
+    "name": "Pato de Borracha",
+    "price": 2.99,
+    "image": "https://down-br.img.susercontent.com/file/918733ebf3556971f2e77e6698e422d0"
+  },
+  {
+    "id": 9,
+    "name": "Piscina de Borracha",
+    "price": 190.99,
+    "image": "https://ae01.alicdn.com/kf/S8b4e50ea184043f2aad39ae95635e81cc/Piscina-de-borracha-infl-vel-infantil-piscina-de-banho-para-beb-s-esportes-aqu-ticos-meninos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Kit da HotWheels",
+    "price": 45.0,
+    "image": "https://images-americanas.b2w.io/produtos/7279745156/imagens/carrinho-hot-wheels-item-sortido/7279745421_1_large.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ventilador",
+    "price": 159.90,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUdReAjEVp1tGiy1brrXlXIBtAS2UB-BzPw&s"
+  },
+  {
+    "id": 12,
+    "name": "Juliet Chave",
+    "price": 370.0,
+    "image": "https://cdn.sistemawbuy.com.br/arquivos/9d7b9e21088b66e6d6fc79ae35eb4fe1/produtos/64dcde00d80eb/20230816113235-64dcde0355ae9.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tech Deck - Flip",
+    "price": 49.90,
+    "image": "https://images.tcdn.com.br/img/img_prod/1119462/skate_de_dedo_tech_deck_profissional_modleos_sotidos_sunny_167106019_1_e2d1f4d8ebfdce8fe594d5ea7cf5854f.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Caneca do São Paulo",
+    "price": 70.0,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_701102-MLB54480937213_032023-O.webp"
+  },
+  {
+    "id": 1,
+    "name": "Carteira Masculina",
+    "price": 29.99,
+    "image": "data:image/jpeg;base64,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"
+  }
+]
